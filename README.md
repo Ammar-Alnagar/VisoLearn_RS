@@ -1,6 +1,6 @@
 # VisoLearn
 
-![VisoLearn Logo](static/logo.png)  
+![VisoLearn Logo](./logo.png)  
 **VisoLearn** is an AI-powered educational tool designed to help autistic children improve communication and observational skills through interactive visual learning. The system generates custom images based on a child's learning needs and evaluates their descriptions to provide real-time feedback and guidance.
 
 ---
